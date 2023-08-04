@@ -2,4 +2,7 @@ git status
 git clone
 git commit
 git remote -v
+git status
+git init
+git clone 
 
