@@ -1,1 +1,5 @@
+git status 
+git clone
+git commit
+git remote -v
 
