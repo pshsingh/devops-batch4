@@ -3,6 +3,8 @@ git clone
 git commit
 git remote -v
 git status
-git init
-git clone 
+
+git pull origin main
+git push
+git fetch
 
